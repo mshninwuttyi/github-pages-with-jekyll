@@ -1,3 +1,4 @@
-
+---
 title: "Wuttyi's GitHub Page"
-date: 2021_11_17
+date: 2021-11-17
+---

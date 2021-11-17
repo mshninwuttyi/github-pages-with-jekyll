@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Wuttyi blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my first page. I start it by learning GitHub.
